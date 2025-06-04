@@ -241,7 +241,7 @@
       <div class="featured-content">
         <h1>Breaking: Revolutionary AI Changes The World</h1>
         <p>
-          Artificial intelligence is transforming industries, changing the way we live and work. Experts predict even more disruptive advancements in the coming years.
+          Artificial3 intelligence is transforming industries, changing the way we live and work. Experts predict even more disruptive advancements in the coming years.
         </p>
       </div>
     </section>
